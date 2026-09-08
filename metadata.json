@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Pharmacy",
+  "description": "Modern, professional online pharmacy and medicine store with genuine healthcare products, vitamins, and expert guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
